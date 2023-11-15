@@ -1,0 +1,14 @@
+body{
+    background-color: #fefefe;
+}
+
+
+.container{
+    width: 60vw;
+    margin: 10vh auto;
+}
+
+h1{
+    text-align: center;
+}
+
